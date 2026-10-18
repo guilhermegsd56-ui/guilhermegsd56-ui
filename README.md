@@ -102,18 +102,6 @@ Estou constantemente trabalhando em novas ideias e aprimorando meus projetos par
 
 > 🚧 Em constante aprendizado, desenvolvimento e evolução.
 
----
-
-## 💡 Um pouco de inspiração
-
-
----
-
-## 💡 Um pouco de inspiração
-
-
----
-
 ## 💡 Um pouco de inspiração
 
 <p align="center">
