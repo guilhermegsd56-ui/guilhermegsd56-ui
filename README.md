@@ -8,12 +8,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/guilhermegsd56-ui" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/g.diazzxz/">
-    <img src="https://img.shields.io/badge/Instagram-Siga--me-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/g.diazzxz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-Desenvolvimento%20de%20Sistemas-FF0000?style=flat-square" alt="Estudante de Desenvolvimento de Sistemas"/>
+  <img src="https://img.shields.io/badge/Área-Full%20Stack-FF0000?style=flat-square" alt="Desenvolvimento Full Stack"/>
 </p>
 
 ---
@@ -30,22 +38,34 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 ---
 
-## 🚀 Tecnologias e linguagens
+## 🛠️ Tecnologias e conhecimentos
 
-Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
+### ⚙️ Back-end
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript&theme=dark" alt="Python, Java, MySQL, HTML, CSS e JavaScript"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java e Python"/>
 </p>
 
-| Tecnologia | Conhecimentos |
-| :--- | :--- |
-| 🐍 **Python** | Lógica de programação, estruturas condicionais e repetição. |
-| ☕ **Java** | Fundamentos da linguagem e programação orientada a objetos. |
-| 🗄️ **MySQL** | Banco de dados relacionais, consultas SQL e manipulação de dados. |
-| 🌐 **HTML5** | Estruturação de páginas web. |
-| 🎨 **CSS3** | Estilização e organização visual de interfaces. |
-| ⚡ **JavaScript** | Fundamentos de programação e interatividade web. |
+- **Java:** fundamentos da linguagem e programação orientada a objetos.
+- **Python:** lógica de programação, estruturas condicionais e repetição.
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="HTML, CSS e JavaScript"/>
+</p>
+
+- **HTML5:** estruturação de páginas web.
+- **CSS3:** estilização e organização visual de interfaces.
+- **JavaScript:** fundamentos da linguagem e interatividade em páginas web.
+
+### 🗄️ Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</p>
+
+- **MySQL:** criação e organização de bancos de dados relacionais, consultas SQL e manipulação de dados.
 
 ---
 
@@ -73,6 +93,14 @@ Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
 
 ---
 
+## 📈 Atividade e contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+</p>
+
+---
+
 ## 🏆 Resumo de contribuições
 
 <p align="center">
@@ -92,33 +120,38 @@ Este perfil reúne projetos desenvolvidos durante meus estudos e minha prática 
 
 Estou constantemente trabalhando em novas ideias e aprimorando meus projetos para ampliar minha experiência prática.
 
-> 🚧 Em constante aprendizado, desenvolvimento e evolução.
-
-## 💡 Um pouco de inspiração
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=150&lines=Eu+n%C3%A3o+sou+o+que+me+aconteceu%2C;eu+sou+o+que+eu+escolhi+me+tornar."
-    alt="Eu não sou o que me aconteceu, eu sou o que eu escolhi me tornar."
-  />
+  <i>Em constante aprendizado, desenvolvimento e evolução.</i>
 </p>
 
 ---
 
-
-
-## 🌐 Onde me encontrar?
+## 💡 Um pouco de inspiração
 
 <p align="center">
-  <a href="https://github.com/guilhermegsd56-ui">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=150&lines=Eu+n%C3%A3o+sou+o+que+me+aconteceu%2C;eu+sou+o+que+eu+escolhi+me+tornar." alt="Eu não sou o que me aconteceu, eu sou o que eu escolhi me tornar."/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/guilhermegsd56-ui" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/g.diazzxz/">
-    <img src="https://img.shields.io/badge/Instagram-Perfil%20pessoal-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/g.diazzxz/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>Clique nos ícones para acessar meus perfis.</sub>
 </p>
 
 ---
