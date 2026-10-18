@@ -3,9 +3,15 @@
 <!--             GUILHERME SILVA DIAS             -->
 <!-- ============================================ -->
 
+
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Banner monocromático de Guilherme Silva Dias — Full Stack"/>
+  <img
+    src="./8e9f8848-68f9-49ab-ae45-2afda9f1c7bf.png"
+    width="100%"
+    alt="Banner monocromático de Guilherme Silva Dias — Full Stack"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/guilhermegsd56-ui">
