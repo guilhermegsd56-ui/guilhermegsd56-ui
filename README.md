@@ -4,29 +4,32 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=GUILHERME%20SILVA&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18" width="100%" alt="Banner Guilherme Silva"/>
+  <img src="./assets/banner.png" width="100%" alt="Banner monocromático de Guilherme Silva Dias"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/guilhermegsd56-ui" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <a href="https://github.com/guilhermegsd56-ui">
+    <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=F2F2F2" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/g.diazzxz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  <a href="https://www.instagram.com/g.diazzxz/">
+    <img src="https://img.shields.io/badge/Instagram-080808?style=for-the-badge&logo=instagram&logoColor=F2F2F2" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-Desenvolvimento%20de%20Sistemas-FF0000?style=flat-square" alt="Estudante de Desenvolvimento de Sistemas"/>
-  <img src="https://img.shields.io/badge/Área-Full%20Stack-FF0000?style=flat-square" alt="Desenvolvimento Full Stack"/>
+  <samp>GUILHERME SILVA DIAS &nbsp; | &nbsp; FULL STACK DEVELOPER</samp>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=2&section=header" width="100%" alt="Separador"/>
 </p>
 
 ---
 
-## 👨‍💻 Quem sou?
+## 01 / Quem sou?
 
 Me chamo **Guilherme Silva Dias**, tenho 16 anos e atualmente sou estudante do **SENAC**, onde curso Técnico em Desenvolvimento de Sistemas.
 
@@ -38,70 +41,76 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 02 / Tecnologias
 
-### ⚙️ Back-end
+### BACK-END
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java e Python"/>
 </p>
 
-- **Java:** fundamentos da linguagem e programação orientada a objetos.
-- **Python:** lógica de programação, estruturas condicionais e repetição.
+| Tecnologia | Aplicação |
+| :--- | :--- |
+| Java | Fundamentos da linguagem e programação orientada a objetos. |
+| Python | Lógica de programação, estruturas condicionais e repetição. |
 
-### 🎨 Front-end
+### FRONT-END
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="HTML, CSS e JavaScript"/>
 </p>
 
-- **HTML5:** estruturação de páginas web.
-- **CSS3:** estilização e organização visual de interfaces.
-- **JavaScript:** fundamentos da linguagem e interatividade em páginas web.
+| Tecnologia | Aplicação |
+| :--- | :--- |
+| HTML5 | Estruturação de páginas web. |
+| CSS3 | Estilização e organização visual de interfaces. |
+| JavaScript | Fundamentos da linguagem e interatividade web. |
 
-### 🗄️ Banco de dados
+### BANCO DE DADOS
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 </p>
 
-- **MySQL:** criação e organização de bancos de dados relacionais, consultas SQL e manipulação de dados.
+| Tecnologia | Aplicação |
+| :--- | :--- |
+| MySQL | Bancos de dados relacionais, consultas SQL e manipulação de dados. |
 
 ---
 
-## 🎯 Objetivos
+## 03 / Objetivos
 
-- 📚 Aprofundar meus conhecimentos em desenvolvimento de sistemas.
-- 🛠️ Criar projetos práticos para consolidar o que aprendo.
-- 🌐 Evoluir no desenvolvimento Front-end e Back-end.
-- 🗄️ Aprimorar minhas habilidades com bancos de dados.
-- 📈 Construir um portfólio que demonstre minha evolução.
-- 💡 Explorar novas ferramentas, linguagens e tecnologias.
+- Aprofundar meus conhecimentos em desenvolvimento de sistemas.
+- Desenvolver projetos práticos para consolidar o que aprendo.
+- Evoluir no desenvolvimento Front-end e Back-end.
+- Aprimorar minhas habilidades com bancos de dados.
+- Construir um portfólio que demonstre minha evolução.
+- Explorar novas ferramentas, linguagens e tecnologias.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 04 / GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegsd56-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegsd56-ui&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegsd56-ui&show_icons=true&hide_border=true&bg_color=080808&title_color=F2F2F2&icon_color=A6A6A6&text_color=D9D9D9&ring_color=A6A6A6&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegsd56-ui&layout=compact&hide_border=true&bg_color=080808&title_color=F2F2F2&text_color=D9D9D9&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermegsd56-ui&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA" width="80%" alt="Sequência de contribuições"/>
-</p>
-
----
-
-## 📈 Atividade e contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=guilhermegsd56-ui&theme=dark&hide_border=true&background=080808&ring=F2F2F2&fire=A6A6A6&currStreakLabel=F2F2F2&sideLabels=D9D9D9&dates=888888" width="80%" alt="Sequência de contribuições"/>
 </p>
 
 ---
 
-## 🏆 Resumo de contribuições
+## 05 / Atividade e contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=080808&color=D9D9D9&line=F2F2F2&point=A6A6A6&area=true&area_color=242424&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+</p>
+
+---
+
+## 06 / Resumo de contribuições
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermegsd56-ui&theme=github_dark" width="100%" alt="Resumo das contribuições"/>
@@ -114,52 +123,46 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 ---
 
-## 📂 Meus projetos
+## 07 / Projetos
 
 Este perfil reúne projetos desenvolvidos durante meus estudos e minha prática de programação. Cada repositório representa uma oportunidade de aplicar conhecimentos, experimentar soluções e acompanhar minha evolução como desenvolvedor.
 
 Estou constantemente trabalhando em novas ideias e aprimorando meus projetos para ampliar minha experiência prática.
 
 <p align="center">
-  <i>Em constante aprendizado, desenvolvimento e evolução.</i>
+  <samp>BUILDING · LEARNING · IMPROVING</samp>
 </p>
 
 ---
 
-## 💡 Um pouco de inspiração
+## 08 / Um pouco de inspiração
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=150&lines=Eu+n%C3%A3o+sou+o+que+me+aconteceu%2C;eu+sou+o+que+eu+escolhi+me+tornar." alt="Eu não sou o que me aconteceu, eu sou o que eu escolhi me tornar."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=800&height=150&lines=Eu+n%C3%A3o+sou+o+que+me+aconteceu%2C;eu+sou+o+que+eu+escolhi+me+tornar." alt="Eu não sou o que me aconteceu, eu sou o que eu escolhi me tornar."/>
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 09 / Conecte-se comigo
 
 <p align="center">
-  <a href="https://github.com/guilhermegsd56-ui" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/>
+  <a href="https://github.com/guilhermegsd56-ui">
+    <img src="https://cdn.simpleicons.org/github/F2F2F2" width="38" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
+    <img src="https://cdn.simpleicons.org/linkedin/F2F2F2" width="38" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/g.diazzxz/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/g.diazzxz/">
+    <img src="https://cdn.simpleicons.org/instagram/F2F2F2" width="38" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>Clique nos ícones para acessar meus perfis.</sub>
-</p>
-
----
-
-<p align="center">
-  <i>"Todo grande projeto começa com uma ideia, dedicação e disposição para aprender."</i>
+  <sub>Todos os direitos reservados ao meu processo de aprendizado.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%" alt="Rodapé vermelho"/>
+  <samp>GUILHERME SILVA DIAS © 2026</samp>
 </p>
