@@ -4,7 +4,9 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner monocromático de Guilherme Silva Dias"/>
+  <img src="assets/guilherme-silva-dias-github-banner.jpg"
+       alt="Guilherme Silva Dias - Full Stack"
+       width="100%">
 </p>
 
 <p align="center">
