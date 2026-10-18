@@ -73,14 +73,6 @@ Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
 
 ---
 
-## 📈 Atividade e contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
-</p>
-
----
-
 ## 🏆 Resumo de contribuições
 
 <p align="center">
