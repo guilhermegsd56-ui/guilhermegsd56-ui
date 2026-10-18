@@ -63,12 +63,12 @@ Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegsd56-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegsd56-ui&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA" width="80%" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=guilhermegsd56-ui&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA" width="80%" alt="Sequência de contribuições"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
 ## 📈 Atividade e contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
 </p>
 
 ---
@@ -84,12 +84,12 @@ Estas são as tecnologias com as quais venho estudando e desenvolvendo projetos.
 ## 🏆 Resumo de contribuições
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO_GITHUB&theme=github_dark" width="100%" alt="Resumo das contribuições"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermegsd56-ui&theme=github_dark" width="100%" alt="Resumo das contribuições"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USUARIO_GITHUB&theme=github_dark&utcOffset=-3" width="49%" alt="Horários de atividade"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO_GITHUB&theme=github_dark" width="49%" alt="Linguagens por repositório"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermegsd56-ui&theme=github_dark&utcOffset=-3" width="49%" alt="Horários de atividade"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermegsd56-ui&theme=github_dark" width="49%" alt="Linguagens por repositório"/>
 </p>
 
 ---
@@ -115,6 +115,9 @@ Estou constantemente trabalhando em novas ideias e aprimorando meus projetos par
 ## 🌐 Onde me encontrar?
 
 <p align="center">
+  <a href="https://github.com/guilhermegsd56-ui">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
   </a>
