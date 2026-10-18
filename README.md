@@ -106,11 +106,20 @@ Estou constantemente trabalhando em novas ideias e aprimorando meus projetos par
 
 ## 💡 Um pouco de inspiração
 
+
+---
+
+## 💡 Um pouco de inspiração
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citação de programação"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&height=180&lines=Eu+n%C3%A3o+sou+o+que+me;aconteceu%2C+eu+sou+o+que;escolhi+me+tornar."
+    alt="Eu não sou o que me aconteceu, eu sou o que escolhi me tornar."
+  />
 </p>
 
 ---
+
 
 ## 🌐 Onde me encontrar?
 
