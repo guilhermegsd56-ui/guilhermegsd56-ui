@@ -4,9 +4,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="assets/guilherme-silva-dias-github-banner.jpg"
-       alt="Guilherme Silva Dias - Full Stack"
-       width="100%">
+  <img src="./assets/banner.jpg" width="100%" alt="Banner monocromático de Guilherme Silva Dias — Full Stack"/>
 </p>
 
 <p align="center">
@@ -45,7 +43,7 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 ## 02 / Tecnologias
 
-### BACK-END
+### ⚙️ BACK-END
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java e Python"/>
@@ -53,10 +51,10 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 | Tecnologia | Aplicação |
 | :--- | :--- |
-| Java | Fundamentos da linguagem e programação orientada a objetos. |
-| Python | Lógica de programação, estruturas condicionais e repetição. |
+| **Java** | Fundamentos da linguagem e programação orientada a objetos. |
+| **Python** | Lógica de programação, estruturas condicionais e repetição. |
 
-### FRONT-END
+### 🎨 FRONT-END
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" alt="HTML, CSS e JavaScript"/>
@@ -64,11 +62,11 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 | Tecnologia | Aplicação |
 | :--- | :--- |
-| HTML5 | Estruturação de páginas web. |
-| CSS3 | Estilização e organização visual de interfaces. |
-| JavaScript | Fundamentos da linguagem e interatividade web. |
+| **HTML5** | Estruturação de páginas web. |
+| **CSS3** | Estilização e organização visual de interfaces. |
+| **JavaScript** | Fundamentos da linguagem e interatividade web. |
 
-### BANCO DE DADOS
+### 🗄️ BANCO DE DADOS
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
@@ -76,7 +74,7 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 
 | Tecnologia | Aplicação |
 | :--- | :--- |
-| MySQL | Bancos de dados relacionais, consultas SQL e manipulação de dados. |
+| **MySQL** | Bancos de dados relacionais, consultas SQL e manipulação de dados. |
 
 ---
 
@@ -94,7 +92,7 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 ## 04 / GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegsd56-ui&show_icons=true&hide_border=true&bg_color=080808&title_color=F2F2F2&icon_color=A6A6A6&text_color=D9D9D9&ring_color=A6A6A6&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegsd56-ui&show_icons=true&hide_border=true&bg_color=080808&title_color=F2F2F2&icon_color=A6A6A6&text_color=D9D9D9&locale=pt-br" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegsd56-ui&layout=compact&hide_border=true&bg_color=080808&title_color=F2F2F2&text_color=D9D9D9&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
@@ -107,7 +105,7 @@ Tenho interesse em evoluir constantemente como desenvolvedor, conhecer novas tec
 ## 05 / Atividade e contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=080808&color=D9D9D9&line=F2F2F2&point=A6A6A6&area=true&area_color=242424&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermegsd56-ui&bg_color=080808&color=D9D9D9&line=F2F2F2&point=A6A6A6&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub"/>
 </p>
 
 ---
@@ -162,9 +160,15 @@ Estou constantemente trabalhando em novas ideias e aprimorando meus projetos par
 </p>
 
 <p align="center">
-  <sub>Todos os direitos reservados ao meu processo de aprendizado.</sub>
+  <sub>Clique nos ícones para acessar meus perfis.</sub>
 </p>
+
+---
 
 <p align="center">
   <samp>GUILHERME SILVA DIAS © 2026</samp>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=100&section=footer" width="100%" alt="Rodapé monocromático"/>
 </p>
