@@ -17,7 +17,7 @@
   <a href="https://github.com/guilhermegsd56-ui">
     <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=F2F2F2" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-silva-8170aa3bb/">
+  <a href="https://www.linkedin.com/in/guilherme-silva-dias-8170aa3bb/">
     <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=F2F2F2" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/g.diazzxz/">
